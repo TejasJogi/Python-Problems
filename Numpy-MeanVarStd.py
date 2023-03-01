@@ -39,4 +39,4 @@ A = numpy.array([input().split() for i in range(N)], int)
 
 print(numpy.mean(A, axis=1))
 print(numpy.var(A, axis=0))
-print(numpy.std(A))
+print(numpy.round(numpy.std(A), 11))
