@@ -13,8 +13,6 @@ for i in other_set:
     else:
         false_set.add(False)
 
-print(false_set)
-
 if False in false_set:
     print(False)
 else:
