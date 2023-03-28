@@ -1,5 +1,5 @@
-Task
-Read four numbers, a, b, c, and d, and print the result of a^b + c^d.
+# Task
+# Read four numbers, a, b, c, and d, and print the result of a^b + c^d.
 
 # Input Format
 # Integers a, b, c, and d are given on four separate lines, respectively.
