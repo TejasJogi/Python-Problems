@@ -13,7 +13,7 @@ class MyHTMLParser(HTMLParser):
         if data == '\n':
             None
         else:
-            print(">> >Data")
+            print(">>> Data")
             print(data)
   
   
