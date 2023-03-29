@@ -67,8 +67,6 @@ class MyHTMLParser(HTMLParser):
         print(tag)
         for key, value in attrs:
             print ("->", key, ">", value)
-    # def handle_endtag(self, tag):
-    #     print("End   :", tag)
     def handle_startendtag(self, tag, attrs):
         print(tag)
         for key, value in attrs:
