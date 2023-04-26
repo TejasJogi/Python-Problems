@@ -46,7 +46,6 @@ N = int(input())
 
 xml = ''
 
-count = 0
 
 def get_attr_number(node):
 #     # your code goes here
